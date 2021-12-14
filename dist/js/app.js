@@ -156,12 +156,6 @@ new Vue({
         category: "DEATHCORE"
       },
       {
-        title: "Blue Fire Horizon",
-        link: "./blue-fire-horizon.html",
-        img: "dist/img/metalcore/blue-fire-horizon2.webp",
-        category: "METALCORE"
-      },
-      {
         title: "A Body Divided",
         link: "./a-body-divided.html",
         img: "dist/img/deathcore/a-body-divided2.jpg",
