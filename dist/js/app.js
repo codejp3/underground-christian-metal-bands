@@ -150,6 +150,12 @@ new Vue({
         category: "METALCORE"
       },
       {
+        title:'BLue Fire Horizon',
+        link:'./blue-fire-horizon.html',
+        img:'dist/img/metalcore/blue-fire-horizon2.webp',
+        category: "METALCORE"
+      },
+      {
         title: "Bloodline Severed",
         link: "./bloodline-severed.html",
         img: "dist/img/deathcore/bloodline-severed.jpg",
