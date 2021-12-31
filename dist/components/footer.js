@@ -37,7 +37,7 @@ class Footer extends HTMLElement {
   <span class="grey-text text-lighten-4 center-align" > © 2021 Beyond The Grave</span>
 
    <a class="grey-text text-lighten-4 center-align" href="https://beyondthegravemusic.com/privacy-policy.html">Privacy Policy</a>
-   <a class="grey-text text-lighten-4 center" href="https://cwd.beyondthegravemusic.com/">Concise Web Designs</a>
+   
 
    </div>
   </div>
